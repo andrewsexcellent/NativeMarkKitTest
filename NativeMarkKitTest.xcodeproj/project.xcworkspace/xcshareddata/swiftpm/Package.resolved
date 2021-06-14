@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "NativeMarkKit",
+        "repositoryURL": "https://github.com/andyfinnell/NativeMarkKit.git",
+        "state": {
+          "branch": null,
+          "revision": "e8ef0022f0b79ddc01fe0b87e2e8d35b031ea6b8",
+          "version": "1.1.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
